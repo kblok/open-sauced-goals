@@ -2,8 +2,8 @@
   {
     "full_name": "MicrosoftDocs/edge-developer",
     "stargazers_count": 234,
-    "open_issues_count": 24,
-    "forks_count": 391
+    "open_issues_count": 25,
+    "forks_count": 392
   },
   {
     "full_name": "ChrisRegado/streamdeck-googlemeet",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 7424,
-    "open_issues_count": 286,
+    "stargazers_count": 7429,
+    "open_issues_count": 289,
     "forks_count": 465
   },
   {
     "full_name": "ConsenSys/smart-contract-best-practices",
-    "stargazers_count": 5830,
+    "stargazers_count": 5834,
     "open_issues_count": 15,
-    "forks_count": 1118
+    "forks_count": 1119
   },
   {
     "full_name": "MicrosoftEdge/DevTools",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 4812,
+    "stargazers_count": 4817,
     "open_issues_count": 3,
-    "forks_count": 686
+    "forks_count": 685
   },
   {
     "full_name": "juanigallo/dApps-challenge",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17369,
-    "open_issues_count": 1093,
-    "forks_count": 4142
+    "stargazers_count": 17374,
+    "open_issues_count": 1091,
+    "forks_count": 4143
   },
   {
     "full_name": "ethereum/EIPs",
-    "stargazers_count": 9965,
-    "open_issues_count": 63,
-    "forks_count": 3643
+    "stargazers_count": 9970,
+    "open_issues_count": 64,
+    "forks_count": 3645
   },
   {
     "full_name": "Azure/static-web-apps-cli",
-    "stargazers_count": 377,
-    "open_issues_count": 31,
+    "stargazers_count": 378,
+    "open_issues_count": 32,
     "forks_count": 55
   },
   {
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "trufflesuite/truffle",
-    "stargazers_count": 13318,
+    "stargazers_count": 13323,
     "open_issues_count": 506,
-    "forks_count": 2217
+    "forks_count": 2221
   },
   {
     "full_name": "ethereum/ethereum-org-website",
     "stargazers_count": 2901,
-    "open_issues_count": 190,
-    "forks_count": 2819
+    "open_issues_count": 183,
+    "forks_count": 2820
   },
   {
     "full_name": "microsoft/codetour",
-    "stargazers_count": 3939,
+    "stargazers_count": 3940,
     "open_issues_count": 43,
     "forks_count": 82
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 38269,
-    "open_issues_count": 356,
-    "forks_count": 14350
+    "stargazers_count": 38288,
+    "open_issues_count": 355,
+    "forks_count": 14355
   },
   {
     "full_name": "johnnysbug/fsharp-command-line-wordle",
@@ -134,12 +134,12 @@
   {
     "full_name": "storyblok/storyblok-js",
     "stargazers_count": 13,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 9
   },
   {
     "full_name": "paulirish/speedline",
-    "stargazers_count": 762,
+    "stargazers_count": 761,
     "open_issues_count": 13,
     "forks_count": 57
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 94407,
-    "open_issues_count": 141,
-    "forks_count": 9635
+    "stargazers_count": 94430,
+    "open_issues_count": 130,
+    "forks_count": 9639
   },
   {
     "full_name": "checkly/checkly-cli",
