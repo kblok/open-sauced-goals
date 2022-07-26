@@ -2,7 +2,7 @@
   {
     "full_name": "MicrosoftDocs/edge-developer",
     "stargazers_count": 242,
-    "open_issues_count": 33,
+    "open_issues_count": 34,
     "forks_count": 396
   },
   {
@@ -13,26 +13,26 @@
   },
   {
     "full_name": "ChainSafe/dappeteer",
-    "stargazers_count": 231,
+    "stargazers_count": 238,
     "open_issues_count": 14,
-    "forks_count": 66
+    "forks_count": 68
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 7452,
+    "stargazers_count": 7459,
     "open_issues_count": 292,
-    "forks_count": 473
+    "forks_count": 474
   },
   {
     "full_name": "ConsenSys/smart-contract-best-practices",
-    "stargazers_count": 5883,
-    "open_issues_count": 15,
-    "forks_count": 1130
+    "stargazers_count": 5900,
+    "open_issues_count": 16,
+    "forks_count": 1133
   },
   {
     "full_name": "MicrosoftEdge/DevTools",
     "stargazers_count": 76,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "forks_count": 17
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 4889,
+    "stargazers_count": 4912,
     "open_issues_count": 2,
-    "forks_count": 692
+    "forks_count": 693
   },
   {
     "full_name": "juanigallo/dApps-challenge",
@@ -55,31 +55,31 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17573,
-    "open_issues_count": 1103,
-    "forks_count": 4182
+    "stargazers_count": 17609,
+    "open_issues_count": 1104,
+    "forks_count": 4186
   },
   {
     "full_name": "ethereum/EIPs",
-    "stargazers_count": 10032,
-    "open_issues_count": 92,
-    "forks_count": 3673
+    "stargazers_count": 10057,
+    "open_issues_count": 95,
+    "forks_count": 3680
   },
   {
     "full_name": "Azure/static-web-apps-cli",
-    "stargazers_count": 382,
-    "open_issues_count": 32,
-    "forks_count": 56
+    "stargazers_count": 383,
+    "open_issues_count": 33,
+    "forks_count": 57
   },
   {
     "full_name": "ethereum/solc-bin",
-    "stargazers_count": 290,
+    "stargazers_count": 293,
     "open_issues_count": 4,
-    "forks_count": 203
+    "forks_count": 205
   },
   {
     "full_name": "puppeteer/replay",
-    "stargazers_count": 241,
+    "stargazers_count": 248,
     "open_issues_count": 9,
     "forks_count": 31
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "trufflesuite/truffle",
-    "stargazers_count": 13355,
-    "open_issues_count": 518,
-    "forks_count": 2233
+    "stargazers_count": 13369,
+    "open_issues_count": 522,
+    "forks_count": 2232
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 2945,
-    "open_issues_count": 197,
-    "forks_count": 2867
+    "stargazers_count": 2954,
+    "open_issues_count": 203,
+    "forks_count": 2879
   },
   {
     "full_name": "microsoft/codetour",
-    "stargazers_count": 3941,
+    "stargazers_count": 3943,
     "open_issues_count": 44,
     "forks_count": 83
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 38475,
-    "open_issues_count": 374,
-    "forks_count": 14446
+    "stargazers_count": 38521,
+    "open_issues_count": 372,
+    "forks_count": 14490
   },
   {
     "full_name": "johnnysbug/fsharp-command-line-wordle",
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "checkly/puppeteer-to-playwright",
-    "stargazers_count": 94,
+    "stargazers_count": 96,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "storyblok/storyblok-js",
     "stargazers_count": 13,
-    "open_issues_count": 17,
+    "open_issues_count": 9,
     "forks_count": 10
   },
   {
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 94700,
-    "open_issues_count": 148,
-    "forks_count": 9676
+    "stargazers_count": 94777,
+    "open_issues_count": 153,
+    "forks_count": 9679
   },
   {
     "full_name": "checkly/checkly-cli",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "vercel/async-retry",
-    "stargazers_count": 1534,
+    "stargazers_count": 1536,
     "open_issues_count": 23,
     "forks_count": 58
   },
