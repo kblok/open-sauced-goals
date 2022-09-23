@@ -1,9 +1,9 @@
 [
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 23366,
-    "open_issues_count": 90,
-    "forks_count": 1166
+    "stargazers_count": 23396,
+    "open_issues_count": 91,
+    "forks_count": 1168
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5168,
+    "stargazers_count": 5172,
     "open_issues_count": 5,
     "forks_count": 343
   },
   {
     "full_name": "percy/percy-cypress",
-    "stargazers_count": 272,
-    "open_issues_count": 2,
+    "stargazers_count": 273,
+    "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "MicrosoftDocs/edge-developer",
-    "stargazers_count": 256,
-    "open_issues_count": 39,
+    "stargazers_count": 257,
+    "open_issues_count": 34,
     "forks_count": 417
   },
   {
@@ -44,25 +44,25 @@
   {
     "full_name": "ChainSafe/dappeteer",
     "stargazers_count": 257,
-    "open_issues_count": 22,
-    "forks_count": 78
+    "open_issues_count": 27,
+    "forks_count": 79
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 7652,
-    "open_issues_count": 316,
-    "forks_count": 491
+    "stargazers_count": 7662,
+    "open_issues_count": 317,
+    "forks_count": 492
   },
   {
     "full_name": "ConsenSys/smart-contract-best-practices",
-    "stargazers_count": 6062,
+    "stargazers_count": 6071,
     "open_issues_count": 18,
-    "forks_count": 1173
+    "forks_count": 1176
   },
   {
     "full_name": "MicrosoftEdge/DevTools",
     "stargazers_count": 83,
-    "open_issues_count": 55,
+    "open_issues_count": 56,
     "forks_count": 21
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 5173,
+    "stargazers_count": 5176,
     "open_issues_count": 5,
-    "forks_count": 736
+    "forks_count": 737
   },
   {
     "full_name": "juanigallo/dApps-challenge",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 18234,
-    "open_issues_count": 1120,
-    "forks_count": 4347
+    "stargazers_count": 18260,
+    "open_issues_count": 1126,
+    "forks_count": 4357
   },
   {
     "full_name": "ethereum/EIPs",
-    "stargazers_count": 10431,
-    "open_issues_count": 109,
-    "forks_count": 3844
+    "stargazers_count": 10450,
+    "open_issues_count": 106,
+    "forks_count": 3859
   },
   {
     "full_name": "Azure/static-web-apps-cli",
     "stargazers_count": 400,
-    "open_issues_count": 39,
+    "open_issues_count": 41,
     "forks_count": 65
   },
   {
     "full_name": "ethereum/solc-bin",
-    "stargazers_count": 304,
+    "stargazers_count": 307,
     "open_issues_count": 4,
-    "forks_count": 210
+    "forks_count": 209
   },
   {
     "full_name": "puppeteer/replay",
     "stargazers_count": 315,
-    "open_issues_count": 10,
-    "forks_count": 52
+    "open_issues_count": 14,
+    "forks_count": 53
   },
   {
     "full_name": "appium/appium-ios-device",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "trufflesuite/truffle",
-    "stargazers_count": 13520,
+    "stargazers_count": 13527,
     "open_issues_count": 514,
-    "forks_count": 2251
+    "forks_count": 2252
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 3268,
-    "open_issues_count": 262,
-    "forks_count": 3150
+    "stargazers_count": 3305,
+    "open_issues_count": 277,
+    "forks_count": 3169
   },
   {
     "full_name": "microsoft/codetour",
-    "stargazers_count": 3990,
+    "stargazers_count": 3992,
     "open_issues_count": 53,
     "forks_count": 87
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 39392,
-    "open_issues_count": 414,
-    "forks_count": 14962
+    "stargazers_count": 39440,
+    "open_issues_count": 418,
+    "forks_count": 14990
   },
   {
     "full_name": "johnnysbug/fsharp-command-line-wordle",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "checkly/puppeteer-to-playwright",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -171,7 +171,7 @@
     "full_name": "paulirish/speedline",
     "stargazers_count": 763,
     "open_issues_count": 14,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "martincostello/dotnet-playwright-tests",
