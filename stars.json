@@ -1,9 +1,9 @@
 [
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 23714,
-    "open_issues_count": 101,
-    "forks_count": 1176
+    "stargazers_count": 23747,
+    "open_issues_count": 106,
+    "forks_count": 1180
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5234,
+    "stargazers_count": 5236,
     "open_issues_count": 4,
     "forks_count": 346
   },
   {
     "full_name": "percy/percy-cypress",
-    "stargazers_count": 281,
+    "stargazers_count": 283,
     "open_issues_count": 5,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "MicrosoftDocs/edge-developer",
-    "stargazers_count": 268,
-    "open_issues_count": 36,
-    "forks_count": 431
+    "stargazers_count": 269,
+    "open_issues_count": 30,
+    "forks_count": 432
   },
   {
     "full_name": "ChrisRegado/streamdeck-googlemeet",
@@ -43,26 +43,26 @@
   },
   {
     "full_name": "ChainSafe/dappeteer",
-    "stargazers_count": 297,
-    "open_issues_count": 32,
-    "forks_count": 91
+    "stargazers_count": 298,
+    "open_issues_count": 39,
+    "forks_count": 92
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 7791,
-    "open_issues_count": 330,
-    "forks_count": 507
+    "stargazers_count": 7794,
+    "open_issues_count": 332,
+    "forks_count": 509
   },
   {
     "full_name": "ConsenSys/smart-contract-best-practices",
-    "stargazers_count": 6247,
-    "open_issues_count": 17,
-    "forks_count": 1205
+    "stargazers_count": 6251,
+    "open_issues_count": 16,
+    "forks_count": 1208
   },
   {
     "full_name": "MicrosoftEdge/DevTools",
     "stargazers_count": 88,
-    "open_issues_count": 57,
+    "open_issues_count": 59,
     "forks_count": 23
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 5379,
+    "stargazers_count": 5383,
     "open_issues_count": 4,
-    "forks_count": 771
+    "forks_count": 775
   },
   {
     "full_name": "juanigallo/dApps-challenge",
@@ -85,32 +85,32 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 18732,
-    "open_issues_count": 1082,
-    "forks_count": 4476
+    "stargazers_count": 18763,
+    "open_issues_count": 1068,
+    "forks_count": 4485
   },
   {
     "full_name": "ethereum/EIPs",
-    "stargazers_count": 10668,
-    "open_issues_count": 118,
-    "forks_count": 3980
+    "stargazers_count": 10687,
+    "open_issues_count": 120,
+    "forks_count": 3992
   },
   {
     "full_name": "Azure/static-web-apps-cli",
-    "stargazers_count": 423,
-    "open_issues_count": 53,
+    "stargazers_count": 425,
+    "open_issues_count": 54,
     "forks_count": 70
   },
   {
     "full_name": "ethereum/solc-bin",
-    "stargazers_count": 318,
+    "stargazers_count": 320,
     "open_issues_count": 7,
-    "forks_count": 211
+    "forks_count": 212
   },
   {
     "full_name": "puppeteer/replay",
-    "stargazers_count": 381,
-    "open_issues_count": 8,
+    "stargazers_count": 387,
+    "open_issues_count": 10,
     "forks_count": 72
   },
   {
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "trufflesuite/truffle",
-    "stargazers_count": 13639,
+    "stargazers_count": 13642,
     "open_issues_count": 505,
     "forks_count": 2271
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 3541,
-    "open_issues_count": 265,
-    "forks_count": 3384
+    "stargazers_count": 3554,
+    "open_issues_count": 293,
+    "forks_count": 3402
   },
   {
     "full_name": "microsoft/codetour",
-    "stargazers_count": 4023,
+    "stargazers_count": 4024,
     "open_issues_count": 55,
     "forks_count": 88
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 40086,
-    "open_issues_count": 387,
-    "forks_count": 15340
+    "stargazers_count": 40102,
+    "open_issues_count": 381,
+    "forks_count": 15359
   },
   {
     "full_name": "johnnysbug/fsharp-command-line-wordle",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "checkly/puppeteer-to-playwright",
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 0,
     "forks_count": 2
   },
