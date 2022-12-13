@@ -1,15 +1,15 @@
 [
   {
     "full_name": "grafana/xk6-browser",
-    "stargazers_count": 174,
-    "open_issues_count": 155,
+    "stargazers_count": 176,
+    "open_issues_count": 156,
     "forks_count": 20
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 23967,
-    "open_issues_count": 119,
-    "forks_count": 1185
+    "stargazers_count": 23993,
+    "open_issues_count": 118,
+    "forks_count": 1186
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "wendigo/chrome-protocol-proxy",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5266,
+    "stargazers_count": 5271,
     "open_issues_count": 4,
     "forks_count": 346
   },
@@ -37,38 +37,38 @@
   },
   {
     "full_name": "MicrosoftDocs/edge-developer",
-    "stargazers_count": 277,
-    "open_issues_count": 34,
-    "forks_count": 437
+    "stargazers_count": 279,
+    "open_issues_count": 28,
+    "forks_count": 439
   },
   {
     "full_name": "ChrisRegado/streamdeck-googlemeet",
-    "stargazers_count": 206,
+    "stargazers_count": 207,
     "open_issues_count": 10,
     "forks_count": 17
   },
   {
     "full_name": "ChainSafe/dappeteer",
-    "stargazers_count": 309,
-    "open_issues_count": 32,
+    "stargazers_count": 310,
+    "open_issues_count": 33,
     "forks_count": 95
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 7862,
-    "open_issues_count": 350,
-    "forks_count": 515
+    "stargazers_count": 7870,
+    "open_issues_count": 349,
+    "forks_count": 516
   },
   {
     "full_name": "ConsenSys/smart-contract-best-practices",
-    "stargazers_count": 6323,
+    "stargazers_count": 6332,
     "open_issues_count": 20,
-    "forks_count": 1216
+    "forks_count": 1218
   },
   {
     "full_name": "MicrosoftEdge/DevTools",
-    "stargazers_count": 93,
-    "open_issues_count": 61,
+    "stargazers_count": 94,
+    "open_issues_count": 60,
     "forks_count": 26
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 5479,
+    "stargazers_count": 5488,
     "open_issues_count": 5,
-    "forks_count": 788
+    "forks_count": 790
   },
   {
     "full_name": "juanigallo/dApps-challenge",
@@ -91,32 +91,32 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 19005,
-    "open_issues_count": 1044,
-    "forks_count": 4548
+    "stargazers_count": 19027,
+    "open_issues_count": 1047,
+    "forks_count": 4559
   },
   {
     "full_name": "ethereum/EIPs",
-    "stargazers_count": 10861,
-    "open_issues_count": 106,
-    "forks_count": 4064
+    "stargazers_count": 10876,
+    "open_issues_count": 108,
+    "forks_count": 4073
   },
   {
     "full_name": "Azure/static-web-apps-cli",
-    "stargazers_count": 444,
-    "open_issues_count": 61,
+    "stargazers_count": 446,
+    "open_issues_count": 60,
     "forks_count": 73
   },
   {
     "full_name": "ethereum/solc-bin",
-    "stargazers_count": 325,
+    "stargazers_count": 326,
     "open_issues_count": 4,
     "forks_count": 217
   },
   {
     "full_name": "puppeteer/replay",
-    "stargazers_count": 416,
-    "open_issues_count": 7,
+    "stargazers_count": 418,
+    "open_issues_count": 8,
     "forks_count": 78
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "trufflesuite/truffle",
-    "stargazers_count": 13686,
-    "open_issues_count": 521,
-    "forks_count": 2285
+    "stargazers_count": 13693,
+    "open_issues_count": 525,
+    "forks_count": 2282
   },
   {
     "full_name": "ethereum/ethereum-org-website",
-    "stargazers_count": 3637,
-    "open_issues_count": 387,
-    "forks_count": 3494
+    "stargazers_count": 3645,
+    "open_issues_count": 396,
+    "forks_count": 3511
   },
   {
     "full_name": "microsoft/codetour",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "ethereum/go-ethereum",
-    "stargazers_count": 40441,
-    "open_issues_count": 385,
-    "forks_count": 15522
+    "stargazers_count": 40488,
+    "open_issues_count": 381,
+    "forks_count": 15540
   },
   {
     "full_name": "johnnysbug/fsharp-command-line-wordle",
