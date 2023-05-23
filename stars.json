@@ -14,62 +14,62 @@
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 55,
-    "open_issues_count": 4,
-    "forks_count": 22
+    "open_issues_count": 7,
+    "forks_count": 24
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 198,
-    "open_issues_count": 16,
+    "stargazers_count": 199,
+    "open_issues_count": 14,
     "forks_count": 33
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 2850,
-    "open_issues_count": 7,
+    "stargazers_count": 2863,
+    "open_issues_count": 8,
     "forks_count": 176
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 56970,
-    "open_issues_count": 322,
-    "forks_count": 11740
+    "stargazers_count": 57513,
+    "open_issues_count": 328,
+    "forks_count": 11796
   },
   {
     "full_name": "github/codespaces-actions-playground",
-    "stargazers_count": 166,
+    "stargazers_count": 167,
     "open_issues_count": 0,
-    "forks_count": 38
+    "forks_count": 40
   },
   {
     "full_name": "dabit3/gpt-travel-advisor",
-    "stargazers_count": 520,
-    "open_issues_count": 4,
-    "forks_count": 102
+    "stargazers_count": 521,
+    "open_issues_count": 5,
+    "forks_count": 101
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 6994,
-    "open_issues_count": 68,
-    "forks_count": 3054
+    "stargazers_count": 7003,
+    "open_issues_count": 71,
+    "forks_count": 3059
   },
   {
     "full_name": "checkly/checkly-cli",
     "stargazers_count": 42,
-    "open_issues_count": 17,
+    "open_issues_count": 14,
     "forks_count": 6
   },
   {
     "full_name": "grafana/xk6-browser",
-    "stargazers_count": 234,
-    "open_issues_count": 190,
-    "forks_count": 34
+    "stargazers_count": 237,
+    "open_issues_count": 199,
+    "forks_count": 35
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 25260,
-    "open_issues_count": 104,
-    "forks_count": 1235
+    "stargazers_count": 25291,
+    "open_issues_count": 106,
+    "forks_count": 1236
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5477,
-    "open_issues_count": 5,
-    "forks_count": 355
+    "stargazers_count": 5480,
+    "open_issues_count": 6,
+    "forks_count": 357
   },
   {
     "full_name": "percy/percy-cypress",
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "MicrosoftDocs/edge-developer",
-    "stargazers_count": 321,
-    "open_issues_count": 34,
+    "stargazers_count": 320,
+    "open_issues_count": 31,
     "forks_count": 501
   },
   {
@@ -109,26 +109,26 @@
   },
   {
     "full_name": "ChainSafe/dappeteer",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 31,
     "forks_count": 128
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 8303,
-    "open_issues_count": 353,
-    "forks_count": 545
+    "stargazers_count": 8316,
+    "open_issues_count": 358,
+    "forks_count": 547
   },
   {
     "full_name": "ConsenSys/smart-contract-best-practices",
-    "stargazers_count": 6709,
+    "stargazers_count": 6720,
     "open_issues_count": 21,
-    "forks_count": 1287
+    "forks_count": 1288
   },
   {
     "full_name": "MicrosoftEdge/DevTools",
     "stargazers_count": 107,
-    "open_issues_count": 74,
+    "open_issues_count": 75,
     "forks_count": 40
   },
   {
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 20179,
-    "open_issues_count": 436,
-    "forks_count": 5097
+    "stargazers_count": 20206,
+    "open_issues_count": 430,
+    "forks_count": 5102
   },
   {
     "full_name": "ethereum/EIPs",
-    "stargazers_count": 11569,
-    "open_issues_count": 152,
-    "forks_count": 4683
+    "stargazers_count": 11581,
+    "open_issues_count": 149,
+    "forks_count": 4688
   },
   {
     "full_name": "Azure/static-web-apps-cli",
     "stargazers_count": 494,
-    "open_issues_count": 66,
-    "forks_count": 79
+    "open_issues_count": 67,
+    "forks_count": 80
   },
   {
     "full_name": "ethereum/solc-bin",
-    "stargazers_count": 340,
+    "stargazers_count": 342,
     "open_issues_count": 6,
     "forks_count": 385
   },
   {
     "full_name": "puppeteer/replay",
     "stargazers_count": 564,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 120
   }
 ]
