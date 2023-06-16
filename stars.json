@@ -7,19 +7,19 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3698,
+    "stargazers_count": 3700,
     "open_issues_count": 23,
-    "forks_count": 262
+    "forks_count": 264
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
     "stargazers_count": 265,
-    "open_issues_count": 14,
+    "open_issues_count": 12,
     "forks_count": 78
   },
   {
     "full_name": "Azure-Samples/aks-load-testing",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -31,63 +31,63 @@
   },
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
-    "stargazers_count": 79,
-    "open_issues_count": 4,
-    "forks_count": 131
+    "stargazers_count": 83,
+    "open_issues_count": 6,
+    "forks_count": 132
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
     "stargazers_count": 213,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 37
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 2925,
-    "open_issues_count": 8,
+    "stargazers_count": 2932,
+    "open_issues_count": 9,
     "forks_count": 185
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 58124,
-    "open_issues_count": 336,
-    "forks_count": 11876
+    "stargazers_count": 58165,
+    "open_issues_count": 339,
+    "forks_count": 11888
   },
   {
     "full_name": "github/codespaces-actions-playground",
     "stargazers_count": 170,
     "open_issues_count": 0,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "dabit3/gpt-travel-advisor",
-    "stargazers_count": 529,
+    "stargazers_count": 532,
     "open_issues_count": 5,
-    "forks_count": 104
+    "forks_count": 106
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7063,
+    "stargazers_count": 7074,
     "open_issues_count": 74,
-    "forks_count": 3072
+    "forks_count": 3077
   },
   {
     "full_name": "checkly/checkly-cli",
     "stargazers_count": 42,
-    "open_issues_count": 17,
+    "open_issues_count": 12,
     "forks_count": 6
   },
   {
     "full_name": "grafana/xk6-browser",
-    "stargazers_count": 248,
-    "open_issues_count": 201,
+    "stargazers_count": 247,
+    "open_issues_count": 198,
     "forks_count": 35
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 25445,
-    "open_issues_count": 114,
-    "forks_count": 1238
+    "stargazers_count": 25472,
+    "open_issues_count": 117,
+    "forks_count": 1240
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5501,
+    "stargazers_count": 5503,
     "open_issues_count": 6,
     "forks_count": 358
   },
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "MicrosoftDocs/edge-developer",
-    "stargazers_count": 322,
-    "open_issues_count": 39,
+    "stargazers_count": 323,
+    "open_issues_count": 44,
     "forks_count": 504
   },
   {
@@ -127,25 +127,25 @@
   },
   {
     "full_name": "ChainSafe/dappeteer",
-    "stargazers_count": 417,
+    "stargazers_count": 418,
     "open_issues_count": 30,
-    "forks_count": 131
+    "forks_count": 134
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 8369,
+    "stargazers_count": 8383,
     "open_issues_count": 354,
-    "forks_count": 547
+    "forks_count": 549
   },
   {
     "full_name": "ConsenSys/smart-contract-best-practices",
-    "stargazers_count": 6966,
+    "stargazers_count": 6977,
     "open_issues_count": 21,
-    "forks_count": 1305
+    "forks_count": 1307
   },
   {
     "full_name": "MicrosoftEdge/DevTools",
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 76,
     "forks_count": 41
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 5968,
+    "stargazers_count": 5978,
     "open_issues_count": 7,
-    "forks_count": 871
+    "forks_count": 886
   },
   {
     "full_name": "juanigallo/dApps-challenge",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 20315,
-    "open_issues_count": 423,
-    "forks_count": 5149
+    "stargazers_count": 20331,
+    "open_issues_count": 421,
+    "forks_count": 5188
   },
   {
     "full_name": "ethereum/EIPs",
-    "stargazers_count": 11641,
-    "open_issues_count": 143,
-    "forks_count": 4747
+    "stargazers_count": 11664,
+    "open_issues_count": 145,
+    "forks_count": 4768
   }
 ]
