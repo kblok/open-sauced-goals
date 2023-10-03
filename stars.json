@@ -1,7 +1,7 @@
 [
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 476,
+    "stargazers_count": 477,
     "open_issues_count": 0,
     "forks_count": 60
   },
@@ -9,31 +9,31 @@
     "full_name": "kabirbaidhya/react-todo-app",
     "stargazers_count": 237,
     "open_issues_count": 13,
-    "forks_count": 355
+    "forks_count": 356
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3259,
+    "stargazers_count": 3261,
     "open_issues_count": 0,
     "forks_count": 126
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 6715,
-    "open_issues_count": 666,
-    "forks_count": 1045
+    "stargazers_count": 6723,
+    "open_issues_count": 675,
+    "forks_count": 1049
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 19553,
-    "open_issues_count": 100,
-    "forks_count": 1108
+    "stargazers_count": 19603,
+    "open_issues_count": 101,
+    "forks_count": 1109
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 1748,
-    "open_issues_count": 86,
-    "forks_count": 186
+    "stargazers_count": 1754,
+    "open_issues_count": 88,
+    "forks_count": 187
   },
   {
     "full_name": "gajus/puppeteer-proxy",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3777,
+    "stargazers_count": 3779,
     "open_issues_count": 27,
-    "forks_count": 280
+    "forks_count": 281
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
     "stargazers_count": 286,
-    "open_issues_count": 20,
+    "open_issues_count": 12,
     "forks_count": 89
   },
   {
@@ -62,38 +62,38 @@
   {
     "full_name": "DamianEdwards/Nanorm",
     "stargazers_count": 23,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 118,
     "open_issues_count": 6,
-    "forks_count": 166
+    "forks_count": 167
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 281,
-    "open_issues_count": 31,
+    "stargazers_count": 283,
+    "open_issues_count": 29,
     "forks_count": 51
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 3188,
-    "open_issues_count": 6,
-    "forks_count": 206
+    "stargazers_count": 3193,
+    "open_issues_count": 7,
+    "forks_count": 205
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 59913,
-    "open_issues_count": 378,
-    "forks_count": 12157
+    "stargazers_count": 59936,
+    "open_issues_count": 379,
+    "forks_count": 12154
   },
   {
     "full_name": "github/codespaces-actions-playground",
-    "stargazers_count": 181,
+    "stargazers_count": 184,
     "open_issues_count": 0,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "dabit3/gpt-travel-advisor",
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7430,
-    "open_issues_count": 83,
+    "stargazers_count": 7438,
+    "open_issues_count": 72,
     "forks_count": 3166
   },
   {
     "full_name": "checkly/checkly-cli",
     "stargazers_count": 47,
-    "open_issues_count": 13,
+    "open_issues_count": 15,
     "forks_count": 7
   },
   {
     "full_name": "grafana/xk6-browser",
     "stargazers_count": 267,
-    "open_issues_count": 221,
+    "open_issues_count": 222,
     "forks_count": 38
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 26332,
-    "open_issues_count": 114,
-    "forks_count": 1269
+    "stargazers_count": 26352,
+    "open_issues_count": 115,
+    "forks_count": 1270
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5612,
+    "stargazers_count": 5613,
     "open_issues_count": 7,
     "forks_count": 362
   },
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "MicrosoftDocs/edge-developer",
-    "stargazers_count": 336,
-    "open_issues_count": 41,
-    "forks_count": 539
+    "stargazers_count": 335,
+    "open_issues_count": 38,
+    "forks_count": 538
   },
   {
     "full_name": "ChrisRegado/streamdeck-googlemeet",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 13,
     "forks_count": 21
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 8599,
-    "open_issues_count": 386,
-    "forks_count": 573
+    "stargazers_count": 8610,
+    "open_issues_count": 387,
+    "forks_count": 574
   },
   {
     "full_name": "Consensys/smart-contract-best-practices",
-    "stargazers_count": 7115,
+    "stargazers_count": 7117,
     "open_issues_count": 21,
-    "forks_count": 1413
+    "forks_count": 1416
   }
 ]
