@@ -1,9 +1,9 @@
 [
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 53,
+    "stargazers_count": 59,
     "open_issues_count": 5,
-    "forks_count": 7
+    "forks_count": 10
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "playwright-community/cy2pw",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 516,
+    "stargazers_count": 518,
     "open_issues_count": 0,
     "forks_count": 61
   },
@@ -39,43 +39,43 @@
     "full_name": "qawolf/qawolf",
     "stargazers_count": 3264,
     "open_issues_count": 0,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 6863,
-    "open_issues_count": 746,
-    "forks_count": 1082
+    "stargazers_count": 6875,
+    "open_issues_count": 742,
+    "forks_count": 1084
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 22215,
-    "open_issues_count": 111,
-    "forks_count": 1264
+    "stargazers_count": 22268,
+    "open_issues_count": 110,
+    "forks_count": 1270
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 1848,
+    "stargazers_count": 1853,
     "open_issues_count": 96,
-    "forks_count": 193
+    "forks_count": 195
   },
   {
     "full_name": "gajus/puppeteer-proxy",
-    "stargazers_count": 184,
+    "stargazers_count": 185,
     "open_issues_count": 8,
     "forks_count": 22
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3790,
+    "stargazers_count": 3792,
     "open_issues_count": 27,
     "forks_count": 282
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 297,
-    "open_issues_count": 19,
-    "forks_count": 90
+    "stargazers_count": 298,
+    "open_issues_count": 21,
+    "forks_count": 91
   },
   {
     "full_name": "Azure-Samples/aks-load-testing",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "DamianEdwards/Nanorm",
-    "stargazers_count": 30,
-    "open_issues_count": 3,
+    "stargazers_count": 33,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
-    "stargazers_count": 123,
+    "stargazers_count": 124,
     "open_issues_count": 4,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
     "stargazers_count": 314,
-    "open_issues_count": 36,
-    "forks_count": 63
+    "open_issues_count": 39,
+    "forks_count": 65
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 3358,
-    "open_issues_count": 6,
+    "stargazers_count": 3373,
+    "open_issues_count": 7,
     "forks_count": 214
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 60157,
-    "open_issues_count": 384,
-    "forks_count": 12173
+    "stargazers_count": 60210,
+    "open_issues_count": 397,
+    "forks_count": 12186
   },
   {
     "full_name": "github/codespaces-actions-playground",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7584,
+    "stargazers_count": 7594,
     "open_issues_count": 70,
-    "forks_count": 3197
+    "forks_count": 3200
   },
   {
     "full_name": "checkly/checkly-cli",
@@ -140,14 +140,14 @@
   {
     "full_name": "grafana/xk6-browser",
     "stargazers_count": 287,
-    "open_issues_count": 231,
+    "open_issues_count": 234,
     "forks_count": 39
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 26687,
-    "open_issues_count": 118,
-    "forks_count": 1283
+    "stargazers_count": 26707,
+    "open_issues_count": 119,
+    "forks_count": 1284
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5670,
+    "stargazers_count": 5672,
     "open_issues_count": 8,
     "forks_count": 363
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "MicrosoftDocs/edge-developer",
     "stargazers_count": 342,
-    "open_issues_count": 36,
-    "forks_count": 544
+    "open_issues_count": 42,
+    "forks_count": 545
   }
 ]
