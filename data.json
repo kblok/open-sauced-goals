@@ -1,7 +1,7 @@
 [
   {
     "full_name": "microsoft/playwright-dotnet",
-    "stargazers_count": 2155,
+    "stargazers_count": 2158,
     "open_issues_count": 44,
     "forks_count": 208
   },
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 57523,
-    "open_issues_count": 655,
-    "forks_count": 3194
+    "stargazers_count": 57607,
+    "open_issues_count": 650,
+    "forks_count": 3201
   },
   {
     "full_name": "puppeteer/puppeteer",
-    "stargazers_count": 85405,
-    "open_issues_count": 307,
-    "forks_count": 9191
+    "stargazers_count": 85424,
+    "open_issues_count": 309,
+    "forks_count": 9195
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 900,
     "open_issues_count": 0,
-    "forks_count": 816
+    "forks_count": 818
   }
 ]
