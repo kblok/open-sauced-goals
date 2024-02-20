@@ -1,14 +1,14 @@
 [
   {
     "full_name": "cypress-io/cypress-chrome-recorder",
-    "stargazers_count": 218,
+    "stargazers_count": 219,
     "open_issues_count": 8,
     "forks_count": 18
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 164,
-    "open_issues_count": 7,
+    "stargazers_count": 168,
+    "open_issues_count": 8,
     "forks_count": 20
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 557,
+    "stargazers_count": 559,
     "open_issues_count": 2,
     "forks_count": 66
   },
@@ -39,7 +39,7 @@
     "full_name": "kabirbaidhya/react-todo-app",
     "stargazers_count": 247,
     "open_issues_count": 13,
-    "forks_count": 384
+    "forks_count": 385
   },
   {
     "full_name": "qawolf/qawolf",
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7191,
-    "open_issues_count": 863,
-    "forks_count": 1167
+    "stargazers_count": 7201,
+    "open_issues_count": 870,
+    "forks_count": 1170
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 24446,
-    "open_issues_count": 130,
-    "forks_count": 1487
+    "stargazers_count": 24493,
+    "open_issues_count": 124,
+    "forks_count": 1492
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 1987,
+    "stargazers_count": 1992,
     "open_issues_count": 107,
     "forks_count": 206
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3815,
+    "stargazers_count": 3814,
     "open_issues_count": 27,
     "forks_count": 289
   },
@@ -97,45 +97,45 @@
   },
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 4,
-    "forks_count": 281
+    "forks_count": 283
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 394,
-    "open_issues_count": 63,
-    "forks_count": 82
+    "stargazers_count": 396,
+    "open_issues_count": 67,
+    "forks_count": 85
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 3626,
-    "open_issues_count": 7,
+    "stargazers_count": 3639,
+    "open_issues_count": 6,
     "forks_count": 229
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 60786,
-    "open_issues_count": 425,
-    "forks_count": 12269
+    "stargazers_count": 60815,
+    "open_issues_count": 429,
+    "forks_count": 12273
   },
   {
     "full_name": "github/codespaces-actions-playground",
     "stargazers_count": 192,
     "open_issues_count": 0,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "dabit3/gpt-travel-advisor",
-    "stargazers_count": 537,
+    "stargazers_count": 538,
     "open_issues_count": 5,
     "forks_count": 113
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7884,
+    "stargazers_count": 7894,
     "open_issues_count": 74,
-    "forks_count": 3276
+    "forks_count": 3277
   },
   {
     "full_name": "checkly/checkly-cli",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "grafana/xk6-browser",
-    "stargazers_count": 303,
-    "open_issues_count": 242,
+    "stargazers_count": 304,
+    "open_issues_count": 237,
     "forks_count": 42
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 27448,
-    "open_issues_count": 102,
-    "forks_count": 1322
+    "stargazers_count": 27468,
+    "open_issues_count": 104,
+    "forks_count": 1323
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "wendigo/chrome-protocol-proxy",
-    "stargazers_count": 166,
+    "stargazers_count": 168,
     "open_issues_count": 1,
     "forks_count": 28
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5763,
+    "stargazers_count": 5769,
     "open_issues_count": 8,
     "forks_count": 365
   },
   {
     "full_name": "percy/percy-cypress",
     "stargazers_count": 327,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 43
   }
 ]
