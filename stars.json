@@ -7,7 +7,7 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 172,
+    "stargazers_count": 176,
     "open_issues_count": 8,
     "forks_count": 20
   },
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "playwright-community/cy2pw",
-    "stargazers_count": 29,
+    "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 561,
+    "stargazers_count": 562,
     "open_issues_count": 2,
     "forks_count": 66
   },
   {
     "full_name": "kabirbaidhya/react-todo-app",
-    "stargazers_count": 247,
+    "stargazers_count": 248,
     "open_issues_count": 13,
-    "forks_count": 384
+    "forks_count": 386
   },
   {
     "full_name": "qawolf/qawolf",
@@ -49,20 +49,20 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7221,
-    "open_issues_count": 876,
+    "stargazers_count": 7233,
+    "open_issues_count": 882,
     "forks_count": 1157
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 24555,
-    "open_issues_count": 116,
-    "forks_count": 1350
+    "stargazers_count": 24607,
+    "open_issues_count": 117,
+    "forks_count": 1354
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2002,
-    "open_issues_count": 108,
+    "stargazers_count": 2007,
+    "open_issues_count": 109,
     "forks_count": 204
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 322,
+    "stargazers_count": 323,
     "open_issues_count": 24,
     "forks_count": 94
   },
@@ -99,42 +99,42 @@
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 135,
     "open_issues_count": 4,
-    "forks_count": 283
+    "forks_count": 284
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 401,
-    "open_issues_count": 75,
+    "stargazers_count": 402,
+    "open_issues_count": 79,
     "forks_count": 88
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 3665,
-    "open_issues_count": 8,
-    "forks_count": 227
+    "stargazers_count": 3677,
+    "open_issues_count": 9,
+    "forks_count": 230
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 60848,
-    "open_issues_count": 436,
-    "forks_count": 12155
+    "stargazers_count": 60863,
+    "open_issues_count": 438,
+    "forks_count": 12154
   },
   {
     "full_name": "github/codespaces-actions-playground",
     "stargazers_count": 192,
     "open_issues_count": 0,
-    "forks_count": 62
+    "forks_count": 61
   },
   {
     "full_name": "dabit3/gpt-travel-advisor",
-    "stargazers_count": 538,
+    "stargazers_count": 539,
     "open_issues_count": 5,
     "forks_count": 113
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7911,
-    "open_issues_count": 75,
+    "stargazers_count": 7919,
+    "open_issues_count": 77,
     "forks_count": 3198
   },
   {
@@ -146,14 +146,14 @@
   {
     "full_name": "grafana/xk6-browser",
     "stargazers_count": 306,
-    "open_issues_count": 230,
+    "open_issues_count": 234,
     "forks_count": 42
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 27522,
-    "open_issues_count": 110,
-    "forks_count": 1251
+    "stargazers_count": 27553,
+    "open_issues_count": 111,
+    "forks_count": 1252
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "wendigo/chrome-protocol-proxy",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 1,
     "forks_count": 26
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5775,
+    "stargazers_count": 5782,
     "open_issues_count": 8,
     "forks_count": 338
   },
   {
     "full_name": "percy/percy-cypress",
-    "stargazers_count": 327,
-    "open_issues_count": 10,
+    "stargazers_count": 328,
+    "open_issues_count": 9,
     "forks_count": 43
   }
 ]
