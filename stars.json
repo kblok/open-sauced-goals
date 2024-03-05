@@ -1,19 +1,19 @@
 [
   {
     "full_name": "cypress-io/cypress-chrome-recorder",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 176,
+    "stargazers_count": 184,
     "open_issues_count": 8,
     "forks_count": 20
   },
   {
     "full_name": "aws/dotnet-foss",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -39,7 +39,7 @@
     "full_name": "kabirbaidhya/react-todo-app",
     "stargazers_count": 248,
     "open_issues_count": 13,
-    "forks_count": 386
+    "forks_count": 387
   },
   {
     "full_name": "qawolf/qawolf",
@@ -49,20 +49,20 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7233,
-    "open_issues_count": 882,
-    "forks_count": 1157
+    "stargazers_count": 7246,
+    "open_issues_count": 887,
+    "forks_count": 1160
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 24607,
-    "open_issues_count": 117,
-    "forks_count": 1354
+    "stargazers_count": 24672,
+    "open_issues_count": 118,
+    "forks_count": 1358
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2007,
-    "open_issues_count": 109,
+    "stargazers_count": 2013,
+    "open_issues_count": 110,
     "forks_count": 204
   },
   {
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3814,
+    "stargazers_count": 3813,
     "open_issues_count": 27,
     "forks_count": 289
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 323,
+    "stargazers_count": 326,
     "open_issues_count": 24,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "Azure-Samples/aks-load-testing",
@@ -104,20 +104,20 @@
   {
     "full_name": "vikramlearning/blazorbootstrap",
     "stargazers_count": 402,
-    "open_issues_count": 79,
-    "forks_count": 88
+    "open_issues_count": 78,
+    "forks_count": 91
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 3677,
-    "open_issues_count": 9,
-    "forks_count": 230
+    "stargazers_count": 3689,
+    "open_issues_count": 11,
+    "forks_count": 231
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 60863,
-    "open_issues_count": 438,
-    "forks_count": 12154
+    "stargazers_count": 60896,
+    "open_issues_count": 443,
+    "forks_count": 12148
   },
   {
     "full_name": "github/codespaces-actions-playground",
@@ -133,33 +133,33 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7919,
-    "open_issues_count": 77,
-    "forks_count": 3198
+    "stargazers_count": 7935,
+    "open_issues_count": 78,
+    "forks_count": 3223
   },
   {
     "full_name": "checkly/checkly-cli",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 15,
-    "forks_count": 9
+    "forks_count": 6
   },
   {
     "full_name": "grafana/xk6-browser",
-    "stargazers_count": 306,
-    "open_issues_count": 234,
+    "stargazers_count": 307,
+    "open_issues_count": 235,
     "forks_count": 42
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 27553,
-    "open_issues_count": 111,
-    "forks_count": 1252
+    "stargazers_count": 27578,
+    "open_issues_count": 113,
+    "forks_count": 1253
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
     "stargazers_count": 60,
     "open_issues_count": 10,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "wendigo/chrome-protocol-proxy",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5782,
+    "stargazers_count": 5788,
     "open_issues_count": 8,
     "forks_count": 338
   },
   {
     "full_name": "percy/percy-cypress",
-    "stargazers_count": 328,
+    "stargazers_count": 329,
     "open_issues_count": 9,
     "forks_count": 43
   }
