@@ -1,13 +1,13 @@
 [
   {
     "full_name": "cypress-io/cypress-chrome-recorder",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 188,
+    "stargazers_count": 192,
     "open_issues_count": 8,
     "forks_count": 21
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "playwright-community/cy2pw",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -37,33 +37,33 @@
   },
   {
     "full_name": "kabirbaidhya/react-todo-app",
-    "stargazers_count": 248,
+    "stargazers_count": 247,
     "open_issues_count": 13,
-    "forks_count": 387
+    "forks_count": 389
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3273,
+    "stargazers_count": 3274,
     "open_issues_count": 0,
     "forks_count": 131
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7263,
-    "open_issues_count": 881,
-    "forks_count": 1163
+    "stargazers_count": 7281,
+    "open_issues_count": 891,
+    "forks_count": 1167
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 24712,
-    "open_issues_count": 114,
-    "forks_count": 1365
+    "stargazers_count": 24740,
+    "open_issues_count": 126,
+    "forks_count": 1370
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2019,
-    "open_issues_count": 111,
-    "forks_count": 204
+    "stargazers_count": 2025,
+    "open_issues_count": 114,
+    "forks_count": 205
   },
   {
     "full_name": "gajus/puppeteer-proxy",
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3814,
+    "stargazers_count": 3815,
     "open_issues_count": 27,
     "forks_count": 275
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 326,
-    "open_issues_count": 26,
+    "stargazers_count": 328,
+    "open_issues_count": 21,
     "forks_count": 95
   },
   {
@@ -99,25 +99,25 @@
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 137,
     "open_issues_count": 4,
-    "forks_count": 283
+    "forks_count": 285
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
     "stargazers_count": 404,
-    "open_issues_count": 81,
+    "open_issues_count": 83,
     "forks_count": 92
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 3698,
-    "open_issues_count": 8,
-    "forks_count": 233
+    "stargazers_count": 3716,
+    "open_issues_count": 9,
+    "forks_count": 234
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 60916,
-    "open_issues_count": 446,
-    "forks_count": 12145
+    "stargazers_count": 60928,
+    "open_issues_count": 449,
+    "forks_count": 12139
   },
   {
     "full_name": "github/codespaces-actions-playground",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7946,
-    "open_issues_count": 78,
-    "forks_count": 3231
+    "stargazers_count": 7965,
+    "open_issues_count": 80,
+    "forks_count": 3236
   },
   {
     "full_name": "checkly/checkly-cli",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "grafana/xk6-browser",
-    "stargazers_count": 307,
-    "open_issues_count": 228,
+    "stargazers_count": 308,
+    "open_issues_count": 227,
     "forks_count": 42
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 27609,
-    "open_issues_count": 107,
-    "forks_count": 1249
+    "stargazers_count": 27644,
+    "open_issues_count": 108,
+    "forks_count": 1251
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5793,
+    "stargazers_count": 5796,
     "open_issues_count": 8,
     "forks_count": 338
   },
   {
     "full_name": "percy/percy-cypress",
-    "stargazers_count": 329,
+    "stargazers_count": 330,
     "open_issues_count": 8,
     "forks_count": 43
   }
