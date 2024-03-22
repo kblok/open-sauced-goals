@@ -1,15 +1,15 @@
 [
   {
     "full_name": "cypress-io/cypress-chrome-recorder",
-    "stargazers_count": 224,
+    "stargazers_count": 225,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 201,
-    "open_issues_count": 9,
-    "forks_count": 21
+    "stargazers_count": 202,
+    "open_issues_count": 10,
+    "forks_count": 22
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 564,
+    "stargazers_count": 566,
     "open_issues_count": 2,
     "forks_count": 66
   },
@@ -39,30 +39,30 @@
     "full_name": "kabirbaidhya/react-todo-app",
     "stargazers_count": 247,
     "open_issues_count": 14,
-    "forks_count": 392
+    "forks_count": 394
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3275,
+    "stargazers_count": 3276,
     "open_issues_count": 0,
-    "forks_count": 130
+    "forks_count": 129
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7301,
-    "open_issues_count": 887,
-    "forks_count": 1172
+    "stargazers_count": 7309,
+    "open_issues_count": 881,
+    "forks_count": 1174
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 24797,
-    "open_issues_count": 122,
-    "forks_count": 1377
+    "stargazers_count": 24847,
+    "open_issues_count": 120,
+    "forks_count": 1387
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2035,
-    "open_issues_count": 114,
+    "stargazers_count": 2038,
+    "open_issues_count": 115,
     "forks_count": 209
   },
   {
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3817,
+    "stargazers_count": 3819,
     "open_issues_count": 27,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 331,
-    "open_issues_count": 20,
+    "stargazers_count": 333,
+    "open_issues_count": 21,
     "forks_count": 95
   },
   {
@@ -98,26 +98,26 @@
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 139,
-    "open_issues_count": 4,
-    "forks_count": 286
+    "open_issues_count": 5,
+    "forks_count": 288
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 405,
+    "stargazers_count": 409,
     "open_issues_count": 82,
     "forks_count": 95
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 3753,
-    "open_issues_count": 9,
-    "forks_count": 236
+    "stargazers_count": 3766,
+    "open_issues_count": 10,
+    "forks_count": 238
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61033,
-    "open_issues_count": 452,
-    "forks_count": 12139
+    "stargazers_count": 61085,
+    "open_issues_count": 390,
+    "forks_count": 12143
   },
   {
     "full_name": "github/codespaces-actions-playground",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7998,
-    "open_issues_count": 79,
-    "forks_count": 3242
+    "stargazers_count": 8011,
+    "open_issues_count": 80,
+    "forks_count": 3244
   },
   {
     "full_name": "checkly/checkly-cli",
     "stargazers_count": 59,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 6
   },
   {
     "full_name": "grafana/xk6-browser",
     "stargazers_count": 308,
-    "open_issues_count": 228,
+    "open_issues_count": 234,
     "forks_count": 42
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 27695,
+    "stargazers_count": 27717,
     "open_issues_count": 111,
-    "forks_count": 1253
+    "forks_count": 1254
   },
   {
     "full_name": "mablhq/mabl-javascript-snippets",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "ChromeDevTools/awesome-chrome-devtools",
-    "stargazers_count": 5808,
+    "stargazers_count": 5812,
     "open_issues_count": 8,
     "forks_count": 338
   },
