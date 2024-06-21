@@ -1,7 +1,7 @@
 [
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 372,
+    "stargazers_count": 381,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "tediousjs/node-mssql",
-    "stargazers_count": 2218,
-    "open_issues_count": 33,
+    "stargazers_count": 2221,
+    "open_issues_count": 30,
     "forks_count": 463
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 3979,
+    "stargazers_count": 3982,
     "open_issues_count": 454,
-    "forks_count": 599
+    "forks_count": 598
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 83,
-    "open_issues_count": 93,
+    "open_issues_count": 95,
     "forks_count": 26
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 313,
+    "stargazers_count": 317,
     "open_issues_count": 12,
-    "forks_count": 40
+    "forks_count": 42
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -61,45 +61,45 @@
   },
   {
     "full_name": "playwright-community/cy2pw",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 594,
+    "stargazers_count": 596,
     "open_issues_count": 2,
     "forks_count": 70
   },
   {
     "full_name": "kabirbaidhya/react-todo-app",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 18,
     "forks_count": 406
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3309,
+    "stargazers_count": 3310,
     "open_issues_count": 0,
     "forks_count": 133
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7562,
-    "open_issues_count": 958,
-    "forks_count": 1256
+    "stargazers_count": 7571,
+    "open_issues_count": 930,
+    "forks_count": 1257
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 26589,
-    "open_issues_count": 141,
-    "forks_count": 1569
+    "stargazers_count": 26595,
+    "open_issues_count": 142,
+    "forks_count": 1570
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2142,
-    "open_issues_count": 113,
-    "forks_count": 219
+    "stargazers_count": 2148,
+    "open_issues_count": 114,
+    "forks_count": 220
   },
   {
     "full_name": "gajus/puppeteer-proxy",
@@ -110,13 +110,13 @@
   {
     "full_name": "patriksimek/vm2",
     "stargazers_count": 3837,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 285
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 356,
-    "open_issues_count": 20,
+    "stargazers_count": 357,
+    "open_issues_count": 21,
     "forks_count": 95
   },
   {
@@ -134,26 +134,26 @@
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 151,
-    "open_issues_count": 5,
-    "forks_count": 303
+    "open_issues_count": 6,
+    "forks_count": 304
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 555,
-    "open_issues_count": 106,
+    "stargazers_count": 557,
+    "open_issues_count": 109,
     "forks_count": 16
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 4097,
-    "open_issues_count": 8,
-    "forks_count": 248
+    "stargazers_count": 4155,
+    "open_issues_count": 7,
+    "forks_count": 249
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61599,
+    "stargazers_count": 61618,
     "open_issues_count": 411,
-    "forks_count": 12174
+    "forks_count": 12173
   },
   {
     "full_name": "github/codespaces-actions-playground",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 8311,
-    "open_issues_count": 82,
-    "forks_count": 3286
+    "stargazers_count": 8321,
+    "open_issues_count": 81,
+    "forks_count": 3289
   },
   {
     "full_name": "checkly/checkly-cli",
