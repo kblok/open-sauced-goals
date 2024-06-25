@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mendableai/firecrawl",
+    "stargazers_count": 6851,
+    "open_issues_count": 38,
+    "forks_count": 489
+  },
+  {
     "full_name": "microsoft/foss-fund",
     "stargazers_count": 381,
     "open_issues_count": 0,
@@ -13,20 +19,20 @@
   },
   {
     "full_name": "tediousjs/node-mssql",
-    "stargazers_count": 2221,
-    "open_issues_count": 30,
+    "stargazers_count": 2218,
+    "open_issues_count": 28,
     "forks_count": 463
   },
   {
     "full_name": "sidorares/node-mysql2",
     "stargazers_count": 3982,
-    "open_issues_count": 454,
-    "forks_count": 598
+    "open_issues_count": 457,
+    "forks_count": 604
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
-    "stargazers_count": 83,
-    "open_issues_count": 95,
+    "stargazers_count": 84,
+    "open_issues_count": 98,
     "forks_count": 26
   },
   {
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "cypress-io/cypress-chrome-recorder",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 11,
     "forks_count": 18
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 317,
-    "open_issues_count": 12,
-    "forks_count": 42
+    "stargazers_count": 318,
+    "open_issues_count": 13,
+    "forks_count": 43
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 596,
+    "stargazers_count": 598,
     "open_issues_count": 2,
     "forks_count": 70
   },
@@ -75,29 +81,29 @@
     "full_name": "kabirbaidhya/react-todo-app",
     "stargazers_count": 251,
     "open_issues_count": 18,
-    "forks_count": 406
+    "forks_count": 407
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3310,
+    "stargazers_count": 3311,
     "open_issues_count": 0,
     "forks_count": 133
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7571,
-    "open_issues_count": 930,
+    "stargazers_count": 7580,
+    "open_issues_count": 948,
     "forks_count": 1257
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 26595,
-    "open_issues_count": 142,
-    "forks_count": 1570
+    "stargazers_count": 26626,
+    "open_issues_count": 154,
+    "forks_count": 1571
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2148,
+    "stargazers_count": 2149,
     "open_issues_count": 114,
     "forks_count": 220
   },
@@ -109,14 +115,14 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3837,
+    "stargazers_count": 3838,
     "open_issues_count": 28,
     "forks_count": 285
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 357,
-    "open_issues_count": 21,
+    "stargazers_count": 356,
+    "open_issues_count": 22,
     "forks_count": 95
   },
   {
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 557,
-    "open_issues_count": 109,
+    "stargazers_count": 556,
+    "open_issues_count": 104,
     "forks_count": 16
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 4155,
+    "stargazers_count": 4188,
     "open_issues_count": 7,
-    "forks_count": 249
+    "forks_count": 251
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61618,
+    "stargazers_count": 61634,
     "open_issues_count": 411,
-    "forks_count": 12173
+    "forks_count": 12172
   },
   {
     "full_name": "github/codespaces-actions-playground",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 8321,
-    "open_issues_count": 81,
-    "forks_count": 3289
-  },
-  {
-    "full_name": "checkly/checkly-cli",
-    "stargazers_count": 61,
-    "open_issues_count": 17,
-    "forks_count": 7
+    "stargazers_count": 8341,
+    "open_issues_count": 80,
+    "forks_count": 3295
   }
 ]
