@@ -1,15 +1,15 @@
 [
   {
     "full_name": "allure-framework/allure-js",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 44,
     "forks_count": 117
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 9067,
-    "open_issues_count": 89,
-    "forks_count": 676
+    "stargazers_count": 9157,
+    "open_issues_count": 92,
+    "forks_count": 686
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -20,7 +20,7 @@
   {
     "full_name": "webdriverbidi-net/webdriverbidi-net",
     "stargazers_count": 7,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4015,
-    "open_issues_count": 468,
-    "forks_count": 607
+    "stargazers_count": 4017,
+    "open_issues_count": 469,
+    "forks_count": 606
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 86,
-    "open_issues_count": 67,
+    "open_issues_count": 69,
     "forks_count": 30
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 366,
+    "stargazers_count": 369,
     "open_issues_count": 17,
     "forks_count": 54
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "playwright-community/cy2pw",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -85,32 +85,32 @@
   },
   {
     "full_name": "kabirbaidhya/react-todo-app",
-    "stargazers_count": 253,
+    "stargazers_count": 254,
     "open_issues_count": 19,
     "forks_count": 418
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3333,
+    "stargazers_count": 3334,
     "open_issues_count": 1,
     "forks_count": 134
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7772,
-    "open_issues_count": 1028,
-    "forks_count": 1307
+    "stargazers_count": 7778,
+    "open_issues_count": 1033,
+    "forks_count": 1309
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 27207,
-    "open_issues_count": 133,
-    "forks_count": 1610
+    "stargazers_count": 27256,
+    "open_issues_count": 127,
+    "forks_count": 1614
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2236,
-    "open_issues_count": 122,
+    "stargazers_count": 2242,
+    "open_issues_count": 118,
     "forks_count": 221
   },
   {
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3852,
+    "stargazers_count": 3853,
     "open_issues_count": 28,
     "forks_count": 291
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 371,
+    "stargazers_count": 372,
     "open_issues_count": 12,
     "forks_count": 98
   },
@@ -147,25 +147,25 @@
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 155,
     "open_issues_count": 8,
-    "forks_count": 308
+    "forks_count": 309
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 640,
+    "stargazers_count": 645,
     "open_issues_count": 122,
     "forks_count": 28
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 4372,
+    "stargazers_count": 4387,
     "open_issues_count": 7,
-    "forks_count": 261
+    "forks_count": 260
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61931,
-    "open_issues_count": 493,
-    "forks_count": 12158
+    "stargazers_count": 61947,
+    "open_issues_count": 1796,
+    "forks_count": 12156
   },
   {
     "full_name": "github/codespaces-actions-playground",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "dabit3/gpt-travel-advisor",
-    "stargazers_count": 543,
+    "stargazers_count": 544,
     "open_issues_count": 5,
     "forks_count": 114
   }
