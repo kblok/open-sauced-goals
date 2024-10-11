@@ -1,27 +1,27 @@
 [
   {
     "full_name": "empirical-run/appwright",
-    "stargazers_count": 31,
-    "open_issues_count": 6,
+    "stargazers_count": 33,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "microsoft/playwright-testing-service",
-    "stargazers_count": 83,
-    "open_issues_count": 28,
+    "stargazers_count": 84,
+    "open_issues_count": 29,
     "forks_count": 13
   },
   {
     "full_name": "allure-framework/allure-js",
     "stargazers_count": 225,
-    "open_issues_count": 42,
-    "forks_count": 120
+    "open_issues_count": 43,
+    "forks_count": 121
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 16362,
-    "open_issues_count": 115,
-    "forks_count": 1165
+    "stargazers_count": 16886,
+    "open_issues_count": 118,
+    "forks_count": 1204
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "tediousjs/node-mssql",
-    "stargazers_count": 2229,
+    "stargazers_count": 2231,
     "open_issues_count": 28,
     "forks_count": 466
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4047,
-    "open_issues_count": 472,
+    "stargazers_count": 4049,
+    "open_issues_count": 471,
     "forks_count": 613
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 90,
-    "open_issues_count": 74,
+    "open_issues_count": 76,
     "forks_count": 30
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 426,
+    "stargazers_count": 436,
     "open_issues_count": 17,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 634,
+    "stargazers_count": 635,
     "open_issues_count": 2,
     "forks_count": 75
   },
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3353,
+    "stargazers_count": 3355,
     "open_issues_count": 0,
     "forks_count": 136
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 7922,
-    "open_issues_count": 1097,
-    "forks_count": 1348
+    "stargazers_count": 7931,
+    "open_issues_count": 1094,
+    "forks_count": 1352
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 27671,
+    "stargazers_count": 27706,
     "open_issues_count": 114,
-    "forks_count": 1649
+    "forks_count": 1653
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2310,
+    "stargazers_count": 2319,
     "open_issues_count": 124,
     "forks_count": 225
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3862,
+    "stargazers_count": 3863,
     "open_issues_count": 28,
     "forks_count": 295
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
-    "stargazers_count": 382,
-    "open_issues_count": 12,
+    "stargazers_count": 383,
+    "open_issues_count": 14,
     "forks_count": 99
   },
   {
     "full_name": "Azure-Samples/aks-load-testing",
     "stargazers_count": 11,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "DamianEdwards/Nanorm",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 9,
-    "forks_count": 313
+    "forks_count": 314
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 694,
-    "open_issues_count": 142,
+    "stargazers_count": 700,
+    "open_issues_count": 143,
     "forks_count": 33
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 4525,
-    "open_issues_count": 8,
-    "forks_count": 270
+    "stargazers_count": 4541,
+    "open_issues_count": 9,
+    "forks_count": 273
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 62141,
-    "open_issues_count": 423,
-    "forks_count": 12155
+    "stargazers_count": 62160,
+    "open_issues_count": 421,
+    "forks_count": 12154
   }
 ]
