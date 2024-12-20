@@ -1,14 +1,14 @@
 [
   {
     "full_name": "empirical-run/appwright",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "microsoft/playwright-testing-service",
     "stargazers_count": 92,
-    "open_issues_count": 37,
+    "open_issues_count": 39,
     "forks_count": 15
   },
   {
@@ -19,38 +19,38 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 19813,
-    "open_issues_count": 142,
-    "forks_count": 1550
+    "stargazers_count": 20223,
+    "open_issues_count": 146,
+    "forks_count": 1581
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 395,
+    "stargazers_count": 397,
     "open_issues_count": 0,
     "forks_count": 21
   },
   {
     "full_name": "webdriverbidi-net/webdriverbidi-net",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "tediousjs/node-mssql",
-    "stargazers_count": 2238,
-    "open_issues_count": 27,
+    "stargazers_count": 2239,
+    "open_issues_count": 26,
     "forks_count": 470
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4104,
-    "open_issues_count": 483,
+    "stargazers_count": 4110,
+    "open_issues_count": 484,
     "forks_count": 625
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
-    "stargazers_count": 98,
-    "open_issues_count": 91,
+    "stargazers_count": 99,
+    "open_issues_count": 82,
     "forks_count": 32
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "cypress-io/cypress-chrome-recorder",
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 12,
     "forks_count": 21
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 551,
-    "open_issues_count": 19,
-    "forks_count": 77
+    "stargazers_count": 552,
+    "open_issues_count": 20,
+    "forks_count": 78
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -103,37 +103,37 @@
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3379,
+    "stargazers_count": 3378,
     "open_issues_count": 0,
     "forks_count": 137
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 8163,
-    "open_issues_count": 1172,
-    "forks_count": 1397
+    "stargazers_count": 8170,
+    "open_issues_count": 1155,
+    "forks_count": 1396
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 28137,
-    "open_issues_count": 125,
-    "forks_count": 1686
+    "stargazers_count": 28178,
+    "open_issues_count": 123,
+    "forks_count": 1689
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2406,
+    "stargazers_count": 2411,
     "open_issues_count": 126,
     "forks_count": 232
   },
   {
     "full_name": "gajus/puppeteer-proxy",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 7,
     "forks_count": 25
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3882,
+    "stargazers_count": 3884,
     "open_issues_count": 28,
     "forks_count": 296
   },
@@ -158,25 +158,25 @@
   {
     "full_name": "microsoft/contosotraders-cloudtesting",
     "stargazers_count": 158,
-    "open_issues_count": 8,
-    "forks_count": 322
+    "open_issues_count": 9,
+    "forks_count": 323
   },
   {
     "full_name": "vikramlearning/blazorbootstrap",
-    "stargazers_count": 820,
-    "open_issues_count": 160,
-    "forks_count": 47
+    "stargazers_count": 823,
+    "open_issues_count": 159,
+    "forks_count": 49
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 4762,
+    "stargazers_count": 4772,
     "open_issues_count": 6,
-    "forks_count": 286
+    "forks_count": 287
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 62581,
-    "open_issues_count": 441,
-    "forks_count": 12155
+    "stargazers_count": 62619,
+    "open_issues_count": 444,
+    "forks_count": 12161
   }
 ]
