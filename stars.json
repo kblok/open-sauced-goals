@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "browser-use/macOS-use",
+    "stargazers_count": 90,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
     "full_name": "debs-obrien/playwright-movies-app",
-    "stargazers_count": 20,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "stargazers_count": 23,
+    "open_issues_count": 4,
+    "forks_count": 4
   },
   {
     "full_name": "Dankovk/browser-use-node",
-    "stargazers_count": 19,
+    "stargazers_count": 22,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 20401,
-    "open_issues_count": 176,
-    "forks_count": 1945
+    "stargazers_count": 21727,
+    "open_issues_count": 188,
+    "forks_count": 2108
   },
   {
     "full_name": "empirical-run/appwright",
@@ -31,15 +37,15 @@
   },
   {
     "full_name": "allure-framework/allure-js",
-    "stargazers_count": 238,
-    "open_issues_count": 63,
+    "stargazers_count": 239,
+    "open_issues_count": 57,
     "forks_count": 125
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 22997,
-    "open_issues_count": 164,
-    "forks_count": 1842
+    "stargazers_count": 23107,
+    "open_issues_count": 159,
+    "forks_count": 1863
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -56,19 +62,19 @@
   {
     "full_name": "tediousjs/node-mssql",
     "stargazers_count": 2249,
-    "open_issues_count": 28,
+    "open_issues_count": 27,
     "forks_count": 468
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4138,
-    "open_issues_count": 491,
-    "forks_count": 627
+    "stargazers_count": 4140,
+    "open_issues_count": 487,
+    "forks_count": 628
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 107,
-    "open_issues_count": 82,
+    "open_issues_count": 84,
     "forks_count": 32
   },
   {
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 605,
+    "stargazers_count": 610,
     "open_issues_count": 21,
-    "forks_count": 88
+    "forks_count": 87
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -121,25 +127,25 @@
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3381,
+    "stargazers_count": 3384,
     "open_issues_count": 0,
     "forks_count": 138
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 8292,
-    "open_issues_count": 1234,
+    "stargazers_count": 8301,
+    "open_issues_count": 1262,
     "forks_count": 1427
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 28835,
-    "open_issues_count": 131,
-    "forks_count": 1718
+    "stargazers_count": 28863,
+    "open_issues_count": 150,
+    "forks_count": 1720
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2451,
+    "stargazers_count": 2457,
     "open_issues_count": 127,
     "forks_count": 236
   },
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3891,
+    "stargazers_count": 3890,
     "open_issues_count": 28,
     "forks_count": 299
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 41,
     "open_issues_count": 4,
     "forks_count": 5
-  },
-  {
-    "full_name": "microsoft/contosotraders-cloudtesting",
-    "stargazers_count": 157,
-    "open_issues_count": 10,
-    "forks_count": 327
   }
 ]
