@@ -1,33 +1,33 @@
 [
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 8918,
-    "open_issues_count": 35,
-    "forks_count": 484
+    "stargazers_count": 9182,
+    "open_issues_count": 43,
+    "forks_count": 511
   },
   {
     "full_name": "browser-use/macOS-use",
-    "stargazers_count": 949,
+    "stargazers_count": 962,
     "open_issues_count": 14,
-    "forks_count": 105
+    "forks_count": 107
   },
   {
     "full_name": "debs-obrien/playwright-movies-app",
     "stargazers_count": 62,
     "open_issues_count": 6,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "Dankovk/browser-use-node",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 57860,
-    "open_issues_count": 432,
-    "forks_count": 6215
+    "stargazers_count": 58389,
+    "open_issues_count": 436,
+    "forks_count": 6309
   },
   {
     "full_name": "empirical-run/appwright",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 36892,
-    "open_issues_count": 208,
-    "forks_count": 3312
+    "stargazers_count": 37214,
+    "open_issues_count": 210,
+    "forks_count": 3354
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4210,
-    "open_issues_count": 486,
+    "stargazers_count": 4212,
+    "open_issues_count": 481,
     "forks_count": 629
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 116,
-    "open_issues_count": 73,
+    "open_issues_count": 71,
     "forks_count": 33
   },
   {
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 704,
+    "stargazers_count": 705,
     "open_issues_count": 26,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "aws/dotnet-foss",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 699,
+    "stargazers_count": 700,
     "open_issues_count": 2,
     "forks_count": 80
   },
   {
     "full_name": "kabirbaidhya/react-todo-app",
-    "stargazers_count": 264,
+    "stargazers_count": 263,
     "open_issues_count": 20,
     "forks_count": 500
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 8555,
-    "open_issues_count": 1337,
-    "forks_count": 1510
+    "stargazers_count": 8563,
+    "open_issues_count": 1353,
+    "forks_count": 1514
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 29847,
-    "open_issues_count": 137,
-    "forks_count": 1781
+    "stargazers_count": 29880,
+    "open_issues_count": 133,
+    "forks_count": 1782
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2567,
+    "stargazers_count": 2571,
     "open_issues_count": 136,
-    "forks_count": 244
+    "forks_count": 245
   },
   {
     "full_name": "gajus/puppeteer-proxy",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3908,
+    "stargazers_count": 3909,
     "open_issues_count": 27,
     "forks_count": 302
   },
