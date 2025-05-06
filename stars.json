@@ -1,15 +1,15 @@
 [
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 9330,
-    "open_issues_count": 41,
-    "forks_count": 531
+    "stargazers_count": 9471,
+    "open_issues_count": 13,
+    "forks_count": 540
   },
   {
     "full_name": "browser-use/macOS-use",
-    "stargazers_count": 968,
+    "stargazers_count": 980,
     "open_issues_count": 15,
-    "forks_count": 109
+    "forks_count": 111
   },
   {
     "full_name": "debs-obrien/playwright-movies-app",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 58724,
-    "open_issues_count": 441,
-    "forks_count": 6367
+    "stargazers_count": 59067,
+    "open_issues_count": 419,
+    "forks_count": 6431
   },
   {
     "full_name": "empirical-run/appwright",
@@ -38,20 +38,20 @@
   {
     "full_name": "microsoft/playwright-testing-service",
     "stargazers_count": 104,
-    "open_issues_count": 54,
+    "open_issues_count": 53,
     "forks_count": 17
   },
   {
     "full_name": "allure-framework/allure-js",
     "stargazers_count": 247,
-    "open_issues_count": 72,
+    "open_issues_count": 75,
     "forks_count": 122
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 37391,
-    "open_issues_count": 210,
-    "forks_count": 3366
+    "stargazers_count": 37593,
+    "open_issues_count": 213,
+    "forks_count": 3403
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "tediousjs/node-mssql",
-    "stargazers_count": 2256,
-    "open_issues_count": 30,
+    "stargazers_count": 2257,
+    "open_issues_count": 31,
     "forks_count": 466
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4216,
-    "open_issues_count": 482,
-    "forks_count": 628
+    "stargazers_count": 4217,
+    "open_issues_count": 483,
+    "forks_count": 629
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 116,
-    "open_issues_count": 72,
+    "open_issues_count": 74,
     "forks_count": 34
   },
   {
     "full_name": "seclerp/dotnet-chrome-protocol",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 7,
     "forks_count": 2
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 704,
+    "stargazers_count": 705,
     "open_issues_count": 21,
     "forks_count": 101
   },
@@ -121,38 +121,38 @@
   },
   {
     "full_name": "amirshnll/custom-device-emulation-chrome",
-    "stargazers_count": 701,
+    "stargazers_count": 702,
     "open_issues_count": 2,
     "forks_count": 80
   },
   {
     "full_name": "kabirbaidhya/react-todo-app",
-    "stargazers_count": 263,
+    "stargazers_count": 262,
     "open_issues_count": 20,
     "forks_count": 500
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3388,
+    "stargazers_count": 3391,
     "open_issues_count": 0,
     "forks_count": 137
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 8573,
-    "open_issues_count": 1346,
-    "forks_count": 1519
+    "stargazers_count": 8583,
+    "open_issues_count": 1362,
+    "forks_count": 1525
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 29891,
-    "open_issues_count": 134,
-    "forks_count": 1782
+    "stargazers_count": 29946,
+    "open_issues_count": 140,
+    "forks_count": 1783
   },
   {
     "full_name": "rust-headless-chrome/rust-headless-chrome",
-    "stargazers_count": 2571,
-    "open_issues_count": 137,
+    "stargazers_count": 2576,
+    "open_issues_count": 136,
     "forks_count": 246
   },
   {
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "patriksimek/vm2",
-    "stargazers_count": 3909,
+    "stargazers_count": 3911,
     "open_issues_count": 27,
     "forks_count": 302
   },
   {
     "full_name": "Tallyb/cucumber-playwright",
     "stargazers_count": 411,
-    "open_issues_count": 17,
-    "forks_count": 106
+    "open_issues_count": 12,
+    "forks_count": 105
   },
   {
     "full_name": "Azure-Samples/aks-load-testing",
