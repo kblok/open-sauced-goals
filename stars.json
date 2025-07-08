@@ -1,51 +1,51 @@
 [
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 38847,
-    "open_issues_count": 532,
-    "forks_count": 1519
+    "stargazers_count": 38901,
+    "open_issues_count": 531,
+    "forks_count": 1524
   },
   {
     "full_name": "harness/mcp-server",
     "stargazers_count": 8,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "alumnium-hq/alumnium",
-    "stargazers_count": 414,
-    "open_issues_count": 22,
-    "forks_count": 41
+    "stargazers_count": 419,
+    "open_issues_count": 23,
+    "forks_count": 42
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 57568,
-    "open_issues_count": 381,
-    "forks_count": 6657
+    "stargazers_count": 58222,
+    "open_issues_count": 399,
+    "forks_count": 6740
   },
   {
     "full_name": "merajmehrabi/puppeteer-mcp-server",
-    "stargazers_count": 111,
-    "open_issues_count": 6,
-    "forks_count": 16
+    "stargazers_count": 117,
+    "open_issues_count": 5,
+    "forks_count": 15
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 13850,
-    "open_issues_count": 57,
-    "forks_count": 965
+    "stargazers_count": 14129,
+    "open_issues_count": 41,
+    "forks_count": 993
   },
   {
     "full_name": "browser-use/macOS-use",
-    "stargazers_count": 1162,
+    "stargazers_count": 1166,
     "open_issues_count": 15,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "debs-obrien/playwright-movies-app",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 6,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "Dankovk/browser-use-node",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 64608,
-    "open_issues_count": 524,
-    "forks_count": 7380
+    "stargazers_count": 64902,
+    "open_issues_count": 527,
+    "forks_count": 7424
   },
   {
     "full_name": "empirical-run/appwright",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "allure-framework/allure-js",
-    "stargazers_count": 253,
-    "open_issues_count": 87,
+    "stargazers_count": 254,
+    "open_issues_count": 86,
     "forks_count": 124
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 42181,
-    "open_issues_count": 188,
-    "forks_count": 3976
+    "stargazers_count": 42497,
+    "open_issues_count": 184,
+    "forks_count": 4008
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4246,
+    "stargazers_count": 4247,
     "open_issues_count": 490,
-    "forks_count": 634
+    "forks_count": 635
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
-    "stargazers_count": 121,
-    "open_issues_count": 46,
-    "forks_count": 35
+    "stargazers_count": 122,
+    "open_issues_count": 45,
+    "forks_count": 36
   },
   {
     "full_name": "seclerp/dotnet-chrome-protocol",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 756,
+    "stargazers_count": 757,
     "open_issues_count": 22,
     "forks_count": 116
   },
@@ -159,24 +159,24 @@
     "full_name": "kabirbaidhya/react-todo-app",
     "stargazers_count": 264,
     "open_issues_count": 20,
-    "forks_count": 502
+    "forks_count": 501
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3397,
+    "stargazers_count": 3398,
     "open_issues_count": 0,
     "forks_count": 137
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 8783,
-    "open_issues_count": 1483,
-    "forks_count": 1600
+    "stargazers_count": 8793,
+    "open_issues_count": 1502,
+    "forks_count": 1603
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 30316,
-    "open_issues_count": 149,
-    "forks_count": 1809
+    "stargazers_count": 30358,
+    "open_issues_count": 148,
+    "forks_count": 1815
   }
 ]
