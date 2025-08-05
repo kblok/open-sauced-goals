@@ -1,9 +1,9 @@
 [
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 39308,
-    "open_issues_count": 265,
-    "forks_count": 1554
+    "stargazers_count": 39357,
+    "open_issues_count": 253,
+    "forks_count": 1555
   },
   {
     "full_name": "harness/mcp-server",
@@ -14,74 +14,74 @@
   {
     "full_name": "alumnium-hq/alumnium",
     "stargazers_count": 446,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 46
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 62322,
-    "open_issues_count": 346,
-    "forks_count": 7232
+    "stargazers_count": 62872,
+    "open_issues_count": 348,
+    "forks_count": 7312
   },
   {
     "full_name": "merajmehrabi/puppeteer-mcp-server",
-    "stargazers_count": 176,
+    "stargazers_count": 182,
     "open_issues_count": 7,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 15962,
-    "open_issues_count": 27,
-    "forks_count": 1180
+    "stargazers_count": 16224,
+    "open_issues_count": 34,
+    "forks_count": 1203
   },
   {
     "full_name": "browser-use/macOS-use",
-    "stargazers_count": 1518,
+    "stargazers_count": 1522,
     "open_issues_count": 16,
-    "forks_count": 150
+    "forks_count": 153
   },
   {
     "full_name": "debs-obrien/playwright-movies-app",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 6,
     "forks_count": 21
   },
   {
     "full_name": "Dankovk/browser-use-node",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 66686,
-    "open_issues_count": 580,
-    "forks_count": 7688
+    "stargazers_count": 66971,
+    "open_issues_count": 583,
+    "forks_count": 7727
   },
   {
     "full_name": "empirical-run/appwright",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "microsoft/playwright-testing-service",
     "stargazers_count": 108,
-    "open_issues_count": 57,
+    "open_issues_count": 56,
     "forks_count": 18
   },
   {
     "full_name": "allure-framework/allure-js",
     "stargazers_count": 259,
-    "open_issues_count": 84,
+    "open_issues_count": 83,
     "forks_count": 124
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 44079,
-    "open_issues_count": 195,
-    "forks_count": 4160
+    "stargazers_count": 44884,
+    "open_issues_count": 198,
+    "forks_count": 4184
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -91,26 +91,26 @@
   },
   {
     "full_name": "webdriverbidi-net/webdriverbidi-net",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "tediousjs/node-mssql",
-    "stargazers_count": 2265,
+    "stargazers_count": 2266,
     "open_issues_count": 39,
     "forks_count": 471
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4256,
-    "open_issues_count": 495,
-    "forks_count": 639
+    "stargazers_count": 4257,
+    "open_issues_count": 491,
+    "forks_count": 640
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 127,
-    "open_issues_count": 49,
+    "open_issues_count": 51,
     "forks_count": 38
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "lucgagan/auto-playwright",
-    "stargazers_count": 775,
+    "stargazers_count": 780,
     "open_issues_count": 21,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "aws/dotnet-foss",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "qawolf/qawolf",
-    "stargazers_count": 3400,
+    "stargazers_count": 3401,
     "open_issues_count": 0,
     "forks_count": 138
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 8860,
-    "open_issues_count": 1547,
-    "forks_count": 1626
+    "stargazers_count": 8868,
+    "open_issues_count": 1554,
+    "forks_count": 1630
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 30481,
+    "stargazers_count": 30512,
     "open_issues_count": 151,
-    "forks_count": 1824
+    "forks_count": 1827
   }
 ]
