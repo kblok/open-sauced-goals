@@ -1,32 +1,32 @@
 [
   {
     "full_name": "microsoft/playwright-dotnet",
-    "stargazers_count": 2961,
-    "open_issues_count": 48,
-    "forks_count": 296
+    "stargazers_count": 2962,
+    "open_issues_count": 49,
+    "forks_count": 295
   },
   {
     "full_name": "MicrosoftDocs/edge-developer",
-    "stargazers_count": 435,
-    "open_issues_count": 22,
+    "stargazers_count": 436,
+    "open_issues_count": 20,
     "forks_count": 549
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 90765,
-    "open_issues_count": 169,
-    "forks_count": 5911
+    "stargazers_count": 91027,
+    "open_issues_count": 171,
+    "forks_count": 5923
   },
   {
     "full_name": "puppeteer/puppeteer",
-    "stargazers_count": 94510,
-    "open_issues_count": 264,
-    "forks_count": 9426
+    "stargazers_count": 94777,
+    "open_issues_count": 266,
+    "forks_count": 9441
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 953,
     "open_issues_count": 0,
-    "forks_count": 1171
+    "forks_count": 1173
   }
 ]
