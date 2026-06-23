@@ -1,9 +1,9 @@
 [
   {
     "full_name": "microsoft/Webwright",
-    "stargazers_count": 5501,
+    "stargazers_count": 5539,
     "open_issues_count": 34,
-    "forks_count": 344
+    "forks_count": 350
   },
   {
     "full_name": "webdriverbidi-net/vibium-net",
@@ -14,7 +14,7 @@
   {
     "full_name": "a2aproject/a2a-js",
     "stargazers_count": 556,
-    "open_issues_count": 42,
+    "open_issues_count": 58,
     "forks_count": 141
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "stargazers_count": 43953,
-    "open_issues_count": 83,
-    "forks_count": 2829
+    "stargazers_count": 44211,
+    "open_issues_count": 86,
+    "forks_count": 2858
   },
   {
     "full_name": "worldnine/url-opener",
@@ -43,43 +43,43 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 43006,
-    "open_issues_count": 208,
-    "forks_count": 2027
+    "stargazers_count": 43031,
+    "open_issues_count": 221,
+    "forks_count": 2034
   },
   {
     "full_name": "harness/mcp-server",
     "stargazers_count": 74,
-    "open_issues_count": 28,
+    "open_issues_count": 36,
     "forks_count": 53
   },
   {
     "full_name": "alumnium-hq/alumnium",
-    "stargazers_count": 916,
-    "open_issues_count": 18,
+    "stargazers_count": 922,
+    "open_issues_count": 17,
     "forks_count": 94
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 87424,
-    "open_issues_count": 583,
-    "forks_count": 11027
+    "stargazers_count": 87561,
+    "open_issues_count": 599,
+    "forks_count": 11057
   },
   {
     "full_name": "merajmehrabi/puppeteer-mcp-server",
-    "stargazers_count": 467,
+    "stargazers_count": 468,
     "open_issues_count": 13,
     "forks_count": 54
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 34091,
-    "open_issues_count": 5,
-    "forks_count": 2821
+    "stargazers_count": 34219,
+    "open_issues_count": 4,
+    "forks_count": 2844
   },
   {
     "full_name": "browser-use/macOS-use",
-    "stargazers_count": 1952,
+    "stargazers_count": 1958,
     "open_issues_count": 16,
     "forks_count": 192
   },
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 99497,
-    "open_issues_count": 309,
-    "forks_count": 11098
+    "stargazers_count": 100148,
+    "open_issues_count": 282,
+    "forks_count": 11158
   },
   {
     "full_name": "empirical-run/appwright",
-    "stargazers_count": 101,
+    "stargazers_count": 103,
     "open_issues_count": 8,
     "forks_count": 10
   },
@@ -116,14 +116,14 @@
   {
     "full_name": "allure-framework/allure-js",
     "stargazers_count": 278,
-    "open_issues_count": 81,
+    "open_issues_count": 78,
     "forks_count": 132
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 134806,
-    "open_issues_count": 393,
-    "forks_count": 7857
+    "stargazers_count": 137399,
+    "open_issues_count": 399,
+    "forks_count": 7964
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -134,31 +134,31 @@
   {
     "full_name": "webdriverbidi-net/webdriverbidi-net",
     "stargazers_count": 20,
-    "open_issues_count": 1,
+    "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "tediousjs/node-mssql",
     "stargazers_count": 2274,
-    "open_issues_count": 22,
+    "open_issues_count": 24,
     "forks_count": 473
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4364,
+    "stargazers_count": 4366,
     "open_issues_count": 462,
     "forks_count": 669
   },
   {
     "full_name": "GoogleChromeLabs/chromium-bidi",
     "stargazers_count": 170,
-    "open_issues_count": 66,
+    "open_issues_count": 67,
     "forks_count": 50
   },
   {
     "full_name": "seclerp/dotnet-chrome-protocol",
     "stargazers_count": 29,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 4
   },
   {
@@ -171,7 +171,7 @@
     "full_name": "lucgagan/auto-playwright",
     "stargazers_count": 842,
     "open_issues_count": 22,
-    "forks_count": 136
+    "forks_count": 135
   },
   {
     "full_name": "aws/dotnet-foss",
