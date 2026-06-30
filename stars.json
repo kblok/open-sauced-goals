@@ -1,9 +1,9 @@
 [
   {
     "full_name": "microsoft/Webwright",
-    "stargazers_count": 5662,
+    "stargazers_count": 5733,
     "open_issues_count": 36,
-    "forks_count": 358
+    "forks_count": 361
   },
   {
     "full_name": "webdriverbidi-net/vibium-net",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "a2aproject/a2a-js",
-    "stargazers_count": 560,
+    "stargazers_count": 565,
     "open_issues_count": 45,
     "forks_count": 144
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "stargazers_count": 44442,
-    "open_issues_count": 85,
-    "forks_count": 2875
+    "stargazers_count": 44710,
+    "open_issues_count": 87,
+    "forks_count": 2901
   },
   {
     "full_name": "worldnine/url-opener",
@@ -43,43 +43,43 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 43052,
-    "open_issues_count": 227,
-    "forks_count": 2041
+    "stargazers_count": 43072,
+    "open_issues_count": 228,
+    "forks_count": 2044
   },
   {
     "full_name": "harness/mcp-server",
-    "stargazers_count": 76,
-    "open_issues_count": 85,
-    "forks_count": 56
+    "stargazers_count": 77,
+    "open_issues_count": 115,
+    "forks_count": 58
   },
   {
     "full_name": "alumnium-hq/alumnium",
-    "stargazers_count": 925,
-    "open_issues_count": 17,
+    "stargazers_count": 929,
+    "open_issues_count": 18,
     "forks_count": 94
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 87709,
-    "open_issues_count": 602,
-    "forks_count": 11078
+    "stargazers_count": 87858,
+    "open_issues_count": 616,
+    "forks_count": 11104
   },
   {
     "full_name": "merajmehrabi/puppeteer-mcp-server",
-    "stargazers_count": 468,
+    "stargazers_count": 470,
     "open_issues_count": 13,
-    "forks_count": 54
+    "forks_count": 53
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 34356,
-    "open_issues_count": 0,
-    "forks_count": 2850
+    "stargazers_count": 34517,
+    "open_issues_count": 1,
+    "forks_count": 2867
   },
   {
     "full_name": "browser-use/macOS-use",
-    "stargazers_count": 1960,
+    "stargazers_count": 1964,
     "open_issues_count": 16,
     "forks_count": 192
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 100702,
+    "stargazers_count": 101473,
     "open_issues_count": 285,
-    "forks_count": 11198
+    "forks_count": 11263
   },
   {
     "full_name": "empirical-run/appwright",
     "stargazers_count": 103,
-    "open_issues_count": 8,
-    "forks_count": 10
+    "open_issues_count": 9,
+    "forks_count": 11
   },
   {
     "full_name": "microsoft/playwright-testing-service",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "allure-framework/allure-js",
-    "stargazers_count": 278,
-    "open_issues_count": 85,
+    "stargazers_count": 279,
+    "open_issues_count": 84,
     "forks_count": 133
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 139265,
-    "open_issues_count": 358,
-    "forks_count": 8020
+    "stargazers_count": 141565,
+    "open_issues_count": 373,
+    "forks_count": 8153
   },
   {
     "full_name": "microsoft/foss-fund",
@@ -134,18 +134,18 @@
   {
     "full_name": "webdriverbidi-net/webdriverbidi-net",
     "stargazers_count": 20,
-    "open_issues_count": 4,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "tediousjs/node-mssql",
-    "stargazers_count": 2274,
-    "open_issues_count": 22,
+    "stargazers_count": 2275,
+    "open_issues_count": 24,
     "forks_count": 473
   },
   {
     "full_name": "sidorares/node-mysql2",
-    "stargazers_count": 4369,
+    "stargazers_count": 4370,
     "open_issues_count": 462,
     "forks_count": 670
   },
@@ -159,13 +159,13 @@
     "full_name": "seclerp/dotnet-chrome-protocol",
     "stargazers_count": 29,
     "open_issues_count": 9,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "cypress-io/cypress-chrome-recorder",
     "stargazers_count": 249,
     "open_issues_count": 12,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "lucgagan/auto-playwright",
