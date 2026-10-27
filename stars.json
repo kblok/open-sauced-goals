@@ -1,25 +1,25 @@
 [
   {
     "full_name": "lightpanda-io/browser",
-    "stargazers_count": 36869,
-    "open_issues_count": 98,
-    "forks_count": 1784
+    "stargazers_count": 37021,
+    "open_issues_count": 94,
+    "forks_count": 1791
   },
   {
     "full_name": "petekp/inbox",
-    "stargazers_count": 91,
-    "open_issues_count": 11,
+    "stargazers_count": 98,
+    "open_issues_count": 19,
     "forks_count": 4
   },
   {
     "full_name": "callstack/agent-device",
-    "stargazers_count": 5117,
-    "open_issues_count": 87,
-    "forks_count": 344
+    "stargazers_count": 5158,
+    "open_issues_count": 94,
+    "forks_count": 354
   },
   {
     "full_name": "codewithmukesh/dotnet-claude-kit",
-    "stargazers_count": 784,
+    "stargazers_count": 791,
     "open_issues_count": 13,
     "forks_count": 175
   },
@@ -37,45 +37,45 @@
   },
   {
     "full_name": "wfzyx/von",
-    "stargazers_count": 918,
+    "stargazers_count": 919,
     "open_issues_count": 0,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "browser-use/jev-ultrafast",
-    "stargazers_count": 23495,
-    "open_issues_count": 205,
-    "forks_count": 1768
+    "stargazers_count": 23701,
+    "open_issues_count": 209,
+    "forks_count": 1797
   },
   {
     "full_name": "CapSoftware/Cap",
-    "stargazers_count": 23562,
-    "open_issues_count": 402,
-    "forks_count": 2119
+    "stargazers_count": 23839,
+    "open_issues_count": 437,
+    "forks_count": 2167
   },
   {
     "full_name": "browser-use/browser-use-pi",
-    "stargazers_count": 435,
+    "stargazers_count": 437,
     "open_issues_count": 6,
     "forks_count": 24
   },
   {
     "full_name": "stablyai/orca",
-    "stargazers_count": 102842,
-    "open_issues_count": 8638,
-    "forks_count": 6491
+    "stargazers_count": 107121,
+    "open_issues_count": 8082,
+    "forks_count": 6755
   },
   {
     "full_name": "get-bb/bb",
-    "stargazers_count": 4557,
-    "open_issues_count": 687,
-    "forks_count": 686
+    "stargazers_count": 4625,
+    "open_issues_count": 763,
+    "forks_count": 707
   },
   {
     "full_name": "gautamkrishnar/blog-post-workflow",
-    "stargazers_count": 3449,
+    "stargazers_count": 3448,
     "open_issues_count": 1,
-    "forks_count": 291
+    "forks_count": 290
   },
   {
     "full_name": "mablhq/skills",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "microsoft/CUAWright",
-    "stargazers_count": 6066,
+    "stargazers_count": 6067,
     "open_issues_count": 55,
     "forks_count": 386
   },
@@ -105,7 +105,7 @@
     "full_name": "a2aproject/a2a-js",
     "stargazers_count": 647,
     "open_issues_count": 55,
-    "forks_count": 178
+    "forks_count": 179
   },
   {
     "full_name": "gregorygold/mabl-ai-agents",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "stargazers_count": 54003,
-    "open_issues_count": 108,
-    "forks_count": 6635
+    "stargazers_count": 54214,
+    "open_issues_count": 118,
+    "forks_count": 5886
   },
   {
     "full_name": "worldnine/url-opener",
@@ -133,49 +133,49 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 44172,
-    "open_issues_count": 97,
-    "forks_count": 2276
+    "stargazers_count": 44202,
+    "open_issues_count": 110,
+    "forks_count": 2293
   },
   {
     "full_name": "harness/mcp-server",
-    "stargazers_count": 110,
-    "open_issues_count": 108,
+    "stargazers_count": 111,
+    "open_issues_count": 75,
     "forks_count": 89
   },
   {
     "full_name": "alumnium-hq/alumnium",
-    "stargazers_count": 1019,
+    "stargazers_count": 1018,
     "open_issues_count": 16,
     "forks_count": 101
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 91492,
-    "open_issues_count": 135,
-    "forks_count": 11841
+    "stargazers_count": 91594,
+    "open_issues_count": 152,
+    "forks_count": 11871
   },
   {
     "full_name": "merajmehrabi/puppeteer-mcp-server",
-    "stargazers_count": 486,
+    "stargazers_count": 489,
     "open_issues_count": 14,
     "forks_count": 58
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 38516,
-    "open_issues_count": 0,
-    "forks_count": 3301
+    "stargazers_count": 38672,
+    "open_issues_count": 2,
+    "forks_count": 3321
   },
   {
     "full_name": "browser-use/macOS-use",
-    "stargazers_count": 2000,
+    "stargazers_count": 1999,
     "open_issues_count": 16,
     "forks_count": 196
   },
   {
     "full_name": "debs-obrien/playwright-movies-app",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 8,
     "forks_count": 52
   }
